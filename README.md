@@ -12,9 +12,3 @@ Project in the MERN stack:
   Account Information:
     the number of photos added and basic information about the user is shown,
     the ability to delete a user account with all its photos
-    
-HOW TO RUN:
-  run ```npm install``` in project, server and client directory,
-  run ```nodemon``` in server directory,
-  run ```npm start``` in client directory
-  

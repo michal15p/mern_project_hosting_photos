@@ -10,6 +10,8 @@
     <br />adding a link to the photo to the database,
     <br />the ability to delete the photo in the database and server at the same time,
     <br />showing only photos of the logged in user.
+    <img src="gifs/Hosting.gif" alt="ups"/>
   <h3>Account Information:</h3>
     the number of photos added and basic information about the user is shown,
     <br />the ability to delete a user account with all its photos.
+    <img src="gifs/Account.gif" alt="ups"/>

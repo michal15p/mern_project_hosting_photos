@@ -4,6 +4,7 @@
     basic data validation,
     <br />password confirmation during registration,
     <br />using a token to verify the logged in user.
+    <img src="gifs/Logging.gif" alt="ups"/>
   <h3>Photos on the hosting:</h3>
     adding photos of the server's public directory via "multer",
     <br />adding a link to the photo to the database,
